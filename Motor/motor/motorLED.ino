@@ -6,10 +6,6 @@ const int motor2pin2 = 5;
 
 int LED_red = 9;
 int LED_green = 10;
-int speakerPIN = 8;
-int numTones = 3;
-int tones[] = {261, 392, 261, 392, 261, 392, 261, 392};
-
 
 void setup() {
   pinMode(motor1pin1, OUTPUT);
