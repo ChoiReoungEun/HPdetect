@@ -2,8 +2,6 @@
 
 #include <PulseSensorPlayground.h>     // Includes the PulseSensorPlayground Library.   
 
-#include "Arduino.h"
-
 #include <SoftwareSerial.h>
 
  
